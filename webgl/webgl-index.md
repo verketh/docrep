@@ -3,7 +3,7 @@
 
 [原文链接](https://www.tutorialspoint.com/webgl/index.htm)
 
-WebGL (Web图形库)是Web上3D图形的新标准，设计用于渲染2D图形和交互式3D图形。本教程从WebGL、OpenGL和HTML-5的Canvas元素的基本介绍开始，然后是一个示例应用程序。本教程包含了编写基本WebGL应用程序所需的所有步骤的专门章节。它还包含了一些章节，解释了如何使用WebGL进行仿射转换，如平移、旋转和缩放。
+WebGL (Web图形库)是Web上3D图形的新标准，设计用于渲染2D图形和交互式3D图形。本教程从WebGL、OpenGL和HTML-5的Canvas元素的基本介绍开始，然后是一个示例应用程序。本教程的章节包含了编写基本WebGL应用程序所需的所有步骤。它还包含了一些章节，解释了如何使用WebGL进行仿射转换，如平移、旋转和缩放。
 
 <h1 align="center">读者</h1>
 
