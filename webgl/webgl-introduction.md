@@ -1,5 +1,7 @@
 <h1 align="center">WebGL - 介绍</h1>
 
+[原文链接](https://www.tutorialspoint.com/webgl/webgl_introduction.htm)
+
 几年前，Java应用程序——作为applet和JOGL的组合——通过寻址GPU(图形处理单元)在Web上处理3D图形。由于applet需要JVM来运行，因此很难依赖Java applet。几年后，人们不再使用Java小程序。
 
 Adobe (Flash, AIR)的Stage3D api架构提供了GPU硬件加速。利用这些技术，程序员可以在网页浏览器以及IOS和Android平台上开发具有2D和3D功能的应用程序。但由于Flash是一款专有软件，因此它并没有被用作网页标准。
