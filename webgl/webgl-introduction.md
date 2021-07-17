@@ -103,4 +103,4 @@ GPU将有一个单独的内存，它在同一时间运行一小部分代码的�
 
 没有必要为WebGL设置不同的环境。支持WebGL的浏览器有自己的WebGL内置设置。
 
-[下一页](./webgl-canvas.md)
+[上一页](./webgl-index.md) ====== [下一页](./webgl-canvas.md)
