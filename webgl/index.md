@@ -1,3 +1,6 @@
+---
+title: WebGL章节索引
+---
 # WebGL章节索引
 [1 - WebGL 前言](./webgl-index.md)
 

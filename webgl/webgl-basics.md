@@ -1,3 +1,6 @@
+---
+title: WebGL 基础
+---
 <h1 align="center">WebGL 基础</h1>
 
 [原文链接](https://www.tutorialspoint.com/webgl/webgl_basics.htm)

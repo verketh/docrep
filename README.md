@@ -1,4 +1,6 @@
-
+---
+title: 文档索引
+---
 # OpenGL
 
 [1 - WebGL教程](./webgl/index.md)
