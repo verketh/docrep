@@ -1,4 +1,6 @@
-
+---
+title: WebGL 教程
+---
 <h1 align="center">WebGL 教程</h1>
 
 [原文链接](https://www.tutorialspoint.com/webgl/index.htm)

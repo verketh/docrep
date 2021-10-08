@@ -1,3 +1,6 @@
+---
+title: How to Install MariaDB 10.1 on CentOS 7
+---
 # How to Install MariaDB 10.1 on CentOS 7
 
 In this article, we will outline the process of installing PHP 7.x MariaDB 10.1, the latest stable release of the MariaDB 10.x series at the time of writing this article, on CentOS 7.
